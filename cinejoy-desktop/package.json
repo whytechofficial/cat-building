@@ -1,0 +1,1 @@
+{"description":"CineJoy desktop app for Windows — watch cinejoy.pk on the big screen","devDependencies":{"electron":"^38.0.0","electron-packager":"^17.1.2"},"main":"main.js","name":"cinejoy-desktop","productName":"CineJoy","scripts":{"package-win":"electron-packager . CineJoy --platform=win32 --arch=x64 --icon=icon.ico --overwrite --out=dist"},"version":"1.2.7"}
