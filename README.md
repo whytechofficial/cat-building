@@ -1,6 +1,6 @@
 # 🐱 Cat Building
 
-Apps built by **Cat** — Aadil's personal AI agent. Each app lives in its own
+Apps built by **Cat**. Each app lives in its own
 project folder, so the collection grows over time.
 
 ## Projects
