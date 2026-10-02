@@ -5,6 +5,8 @@ project folder, so the collection grows over time.
 
 ## Projects
 
+###CineJoy (no connection with the web owner/author. just an unofficial webview of the website [cinejoy.pk] all credits and infos goes to them only.
+
 ### 🎬 CineJoy — v1.2.7
 An Android app that wraps [cinejoy.pk](https://cinejoy.pk/) in a fullscreen
 WebView shell: fullscreen video support, file downloads, adaptive app icon
